@@ -1,0 +1,5 @@
+"typescript.preferences.includePackageJsonAutoImports": "off",
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/dist/**": true
+  }
